@@ -1,3 +1,3 @@
 # Branching
 Test Branching
-FeatureA
+FeatureB
